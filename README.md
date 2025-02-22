@@ -1,2 +1,2 @@
 # EtecAB
-Entrega do exercício da atividade EtecAB
+Entrega da atividade EtecAB
